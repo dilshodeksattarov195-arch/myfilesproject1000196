@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userconnect",
+        "uuid": 1613472,
+        "checksum": "ajavyo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
